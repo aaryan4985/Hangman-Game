@@ -1,4 +1,5 @@
 Hangman Game 🎯
+
 A simple Hangman game built with Python. This classic word-guessing game challenges players to guess the hidden word one letter at a time before running out of attempts.
 
 Features 🛠️
@@ -6,12 +7,14 @@ Random word selection from a predefined list
 Keeps track of wrong attempts and displays the hangman visually step-by-step
 User-friendly input system to enter letters
 Encourages vocabulary and logical thinking
+
 How to Play 🎮
 The computer selects a random word from the list.
 You must guess the word one letter at a time.
 Each incorrect guess brings the hangman closer to completion (you have limited chances!).
 If you guess the word before the hangman is complete, you win!
 If the hangman is completed before you guess the word, you lose.
+
 Prerequisites ⚙️
 Make sure you have Python 3.x installed. You can check your version with:
 python --version
